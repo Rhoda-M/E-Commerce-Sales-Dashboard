@@ -46,8 +46,7 @@ Files Included :
 
 Dashboard Preview :
 
-C:\Users\PC\OneDrive\Desktop\E-Commerce Sales Dashboard\Screenshot
-
+<img width="1366" height="768" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/aa115310-14c6-4aee-8806-efd95c463ba3" />
 
 Skills Demonstrated :
 - Data Analysis
